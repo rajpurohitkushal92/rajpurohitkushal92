@@ -22,7 +22,7 @@ I enjoy experimenting with the web—from useful creative tools to small games w
 | --- | --- | --- |
 | **Carousify** | A browser-based tool for creating and previewing carousel designs. | [Live demo](https://rajpurohitkushal92.github.io/Carousify/) · [Source](https://github.com/rajpurohitkushal92/Carousify) |
 | **Ink Dash** | A colorful, fast-paced browser game built around canvas gameplay. | [Play](https://rajpurohitkushal92.github.io/khnix-game-12/) · [Source](https://github.com/rajpurohitkushal92/khnix-game-12) |
-| **HabitFlow** | A habit-tracking app concept focused on building consistent routines. | [Open app](https://rajpurohitkushal92.github.io/app/) · [Source](https://github.com/rajpurohitkushal92/app) |
+| **HabitFlow** | A habit-tracking app concept focused on building consistent routines. | [Source](https://github.com/rajpurohitkushal92/app) |
 | **Video editing portfolio** | A showcase of video edits, from short-form content to longer stories. | [View portfolio](https://rajpurohitkushal92.github.io/portfolio/) · [Source](https://github.com/rajpurohitkushal92/portfolio) |
 
 ## Tools I work with

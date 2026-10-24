@@ -1,44 +1,48 @@
 <div align="center">
-  <h1>Welcome to Kushal's GitHub</h1>
-  <p><strong>CREATIVE DEVELOPER · VIDEO EDITOR · MUMBAI, INDIA</strong></p>
-  <p>Building creative web experiences with code, AI, and a lot of curiosity.</p>
-  <p>
-    <a href="#about">ABOUT</a> &nbsp;·&nbsp;
-    <a href="#projects">PROJECTS</a> &nbsp;·&nbsp;
-    <a href="#technologies">TECHNOLOGIES</a> &nbsp;·&nbsp;
-    <a href="#find-me">FIND ME</a>
-  </p>
+  <img src="https://raw.githubusercontent.com/rajpurohitkushal92/rajpurohitkushal92/main/kushal-github-banner.png" alt="Welcome to Kushal's GitHub — creative developer and video editor" width="100%">
+  <br><br>
+  <a href="https://rajpurohitkushal92.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://rajpurohitkushal92.github.io/Carousify/"><img src="https://img.shields.io/badge/CAROUSIFY-0D1117?style=for-the-badge&logoColor=white" alt="Carousify"></a>
+  <a href="https://rajpurohitkushal92.github.io/khnix-game-12/"><img src="https://img.shields.io/badge/INK%20DASH-0D1117?style=for-the-badge&logoColor=white" alt="Ink Dash"></a>
+  <a href="https://x.com/iamkushalFx"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/itz.kushfx"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
 ---
 
-## About
+## About me
 
-I’m Kushal, a creator from Mumbai, India. I enjoy learning by building—from creative web tools and browser games to video-editing projects. I’m interested in the space where code, AI, design, and storytelling meet.
-
-## Projects
-
-| **CAROUSIFY** | **INK DASH** |
-| --- | --- |
-| Create and preview social-media carousel designs in your browser. | A colorful, fast-paced browser game with canvas gameplay. |
-| <a href="https://rajpurohitkushal92.github.io/Carousify/"><img alt="Live demo" src="https://img.shields.io/badge/LIVE_DEMO-111111?style=flat-square" /></a> <a href="https://github.com/rajpurohitkushal92/Carousify"><img alt="Source code" src="https://img.shields.io/badge/SOURCE-555555?style=flat-square" /></a> | <a href="https://rajpurohitkushal92.github.io/khnix-game-12/"><img alt="Play Ink Dash" src="https://img.shields.io/badge/PLAY-111111?style=flat-square" /></a> <a href="https://github.com/rajpurohitkushal92/khnix-game-12"><img alt="Source code" src="https://img.shields.io/badge/SOURCE-555555?style=flat-square" /></a> |
-| **HABITFLOW** | **VIDEO EDITING PORTFOLIO** |
-| A habit-tracking web-app concept for building consistent routines. | A showcase of creative video edits and visual storytelling. |
-| <a href="https://github.com/rajpurohitkushal92/app"><img alt="Source code" src="https://img.shields.io/badge/SOURCE-555555?style=flat-square" /></a> | <a href="https://rajpurohitkushal92.github.io/portfolio/"><img alt="View portfolio" src="https://img.shields.io/badge/VIEW_PORTFOLIO-111111?style=flat-square" /></a> <a href="https://github.com/rajpurohitkushal92/portfolio"><img alt="Source code" src="https://img.shields.io/badge/SOURCE-555555?style=flat-square" /></a> |
+<table>
+  <tr>
+    <td width="70%" valign="middle">
+      <p>Hi, I'm Kushal, a creator from Mumbai, India.</p>
+      <p>I enjoy learning by building—making browser experiences and exploring how code, AI, design, and storytelling can come together. I also create and edit video projects.</p>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/rajpurohitkushal92.png" width="160" alt="Kushal's GitHub profile avatar">
+    </td>
+  </tr>
+</table>
 
 ## Technologies
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="GitHub%20Pages" src="https://img.shields.io/badge/GitHub%20Pages-111111?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages">
 </p>
 
-## Find me
+## Statistics
 
-[Portfolio](https://rajpurohitkushal92.github.io/portfolio/) &nbsp;·&nbsp; [X](https://x.com/iamkushalFx) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/itz.kushfx/)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajpurohitkushal92&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="Kushal's GitHub statistics">
+  <img width="49%" src="https://streak-stats.demolab.com?user=rajpurohitkushal92&theme=transparent&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Kushal's GitHub streak">
+</p>
 
-<div align="center">
-  <sub>Thanks for visiting. More experiments coming soon.</sub>
-</div>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajpurohitkushal92&theme=github_dark" alt="Kushal's GitHub contribution activity">
+</p>
+
+<p align="center"><sub>Thanks for visiting — more experiments coming soon.</sub></p>
